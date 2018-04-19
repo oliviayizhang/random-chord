@@ -1,0 +1,12 @@
+{
+	"comment":"These are definitions for key of C",
+            "chords":{
+            	"I":"Cmaj",
+            	"ii":"Dmin",
+            	"iii":"Emin",
+            	"IV":"Fmaj",
+            	"V":"Gmaj"
+            	"vi":"Amin",
+            	"vii":"Bdim",
+    			}
+}

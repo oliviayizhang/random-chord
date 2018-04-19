@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nextArrow {
+  width: 30%;
+  margin: auto;
+  padding: 1rem;
+}
+
+.rhythm img{
+  height: auto;
+  width: 250px;
+}

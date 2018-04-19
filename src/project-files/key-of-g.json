@@ -1,0 +1,12 @@
+{
+	"comment":"These are definitions for key of G",
+            "chords":{
+            	"I":"Gmaj",
+            	"ii":"Amin",
+            	"iii":"Bmin",
+            	"IV":"Cmaj",
+            	"V":"Dmaj"
+            	"vi":"Emin",
+            	"vii":"F# dim",
+    			}
+}
