@@ -12,11 +12,16 @@ class ChordsContainer extends React.Component {
       chord_name_result.push (chord_name[current_chord])
     }
 
+    let individual_chord_name = chord_name_result.map((chord_name, i) => {
+      return <li key={i}>{chord_name}</li>
+    })
 
     return (
       <div>
         <h3>display random chords progression</h3>
-        {chord_name_result}
+        <ul className="chord_name">
+          {individual_chord_name}
+        </ul>
       </div>
     )
   }

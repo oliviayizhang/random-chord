@@ -28,7 +28,4 @@ const chordName = {
 	}
 }
 
-
-console.log(chordName.C.iii);
-
 export default chordName

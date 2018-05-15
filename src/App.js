@@ -46,8 +46,7 @@ class App extends React.Component {
   }
 
   render() {
-    console.log(this.state.random_chords)
-    let container = this.state.rhythm_pic_number? <RhythmContainer
+    let container = this.state.rhythm_pic_number ? <RhythmContainer
       rhythm_pic_number={this.state.rhythm_pic_number}
     /> : null
 
